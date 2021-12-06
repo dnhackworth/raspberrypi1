@@ -26,3 +26,5 @@ https://smartathome.blogspot.com/2018/02/pihole-change-password.html
 docker exec -it pihole /bin/bash
 #pi hole cmd line
 https://docs.pi-hole.net/core/pihole-command/
+#striaght install
+https://github.com/pi-hole/pi-hole/#one-step-automated-install
