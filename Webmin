@@ -5,3 +5,4 @@ sudo apt-get install perl libnet-ssleay-perl openssl libauthen-pam-perl libpam-r
 wget http://prdownloads.sourceforge.net/webadmin/webmin_1.983_all.deb
 #be sure to updatethe version number
 sudo dpkg --install webmin_1.983_all.deb
+https://192.168.0.250:10000/
