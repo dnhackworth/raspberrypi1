@@ -19,5 +19,8 @@ https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/porn.txt
 https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-tiktok.txt
 #reference page
 https://codeopolis.com/posts/running-pi-hole-in-docker-is-remarkably-easy/
-
+#how to update password in docker/pihole
 https://smartathome.blogspot.com/2018/02/pihole-change-password.html
+
+#send cmds to pihole/docker 
+docker exec -it pihole /bin/bash
