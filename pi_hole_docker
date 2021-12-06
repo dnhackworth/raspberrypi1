@@ -1,0 +1,19 @@
+#https://codeopolis.com/posts/running-pi-hole-in-docker-is-remarkably-easy/
+sudo docker volume create pihole
+sudo docker volume create dnsmasq
+sudo docker run \
+--name=pihole \
+-e TZ=America/Chicago \
+-e WEBPASSWORD=BenFrank4.. \
+-e SERVERIP=192.168.0.250 \
+-v pihole:/etc/pihole \
+-v dnsmasq:/etc/dnsmasq.d \
+-p 80:80 \
+-p 53:53/tcp \
+-p 53:53/udp \
+--restart=unless-stopped \
+pihole/pihole
+
+#add block list
+https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/porn.txt
+https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-tiktok.txt

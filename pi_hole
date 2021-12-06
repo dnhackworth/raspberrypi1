@@ -1,4 +1,0 @@
-https://github.com/pi-hole/docker-pi-hole/#running-pi-hole-docker
-#add block list
-https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/porn.txt
-https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-tiktok.txt
