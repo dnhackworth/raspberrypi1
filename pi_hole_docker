@@ -17,3 +17,5 @@ pihole/pihole
 #add block list
 https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/porn.txt
 https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-tiktok.txt
+#reference page
+https://codeopolis.com/posts/running-pi-hole-in-docker-is-remarkably-easy/
