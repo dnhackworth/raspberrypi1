@@ -1,8 +1,7 @@
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install perl libnet-ssleay-perl openssl libauthen-pam-perl libpam-runtime libio-pty-perl apt-show-versions python
-#https://www.webmin.com/deb.html for latest version
-wget http://prdownloads.sourceforge.net/webadmin/webmin_1.983_all.deb
-#be sure to updatethe version number
-sudo dpkg --install webmin_1.983_all.deb
+
 https://192.168.0.250:10000/
+
+
+sudo apt update && sudo apt upgrade -y
+sudo apt install -y perl libnet-ssleay-perl openssl libauthen-pam-perl libpam-runtime libio-pty-perl apt-show-versions python
+wget http://prdownloads.sourceforge.net/webadmin/webmin_1.941_all.deb
