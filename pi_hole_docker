@@ -24,3 +24,5 @@ https://smartathome.blogspot.com/2018/02/pihole-change-password.html
 
 #send cmds to pihole/docker 
 docker exec -it pihole /bin/bash
+#pi hole cmd line
+https://docs.pi-hole.net/core/pihole-command/
