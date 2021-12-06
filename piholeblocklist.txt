@@ -3,3 +3,5 @@ https://mediavisor.doubleclick.net
 https://analyticsengine.s3.amazonaws.com
 https://affiliationjs.s3.amazonaws.com
 https://advertising-api-eu.amazon.com
+https://analyticsengine.s3.amazonaws.com
+https://advertising-api-eu.amazon.com
