@@ -1,8 +1,13 @@
 
-https://mediavisor.doubleclick.net
-https://analyticsengine.s3.amazonaws.com
-https://affiliationjs.s3.amazonaws.com
-https://advertising-api-eu.amazon.com
-https://analyticsengine.s3.amazonaws.com
-https://advertising-api-eu.amazon.com
-https://freshmarketer.com/
+mediavisor.doubleclick.net
+analyticsengine.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
+analyticsengine.s3.amazonaws.com
+advertising-api-eu.amazon.com
+freshmarketer.com
+analytics.pinterest.com
+widgets.pinterest.com
+ads.linkedin.com
+analytics.pointdrive.linkedin.com
+analytics.facebook.com
