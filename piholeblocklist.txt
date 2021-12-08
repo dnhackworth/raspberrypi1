@@ -11,3 +11,6 @@ widgets.pinterest.com
 ads.linkedin.com
 analytics.pointdrive.linkedin.com
 analytics.facebook.com
+analyticsengine.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
