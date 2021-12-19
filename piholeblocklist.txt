@@ -23,3 +23,15 @@ advertising-api-eu.amazon.com
 freshmarketer.com
 cdn.luckyorange.com
 w1.luckyorange.com
+api.bugsnag.com
+app.bugsnag.com
+browser.sentry-cdn.com
+app.getsentry.com
+ads.facebook.com
+advertising.twitter.com
+d.reddit.com
+analytics-sg.tiktok.com
+metrics2.data.hicloud.com
+logservice.hicloud.com
+samsung-com.112.2o7.net
+supportmetrics.apple.com
