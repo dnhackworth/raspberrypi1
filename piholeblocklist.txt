@@ -35,3 +35,6 @@ metrics2.data.hicloud.com
 logservice.hicloud.com
 samsung-com.112.2o7.net
 supportmetrics.apple.com
+browser.sentry-cdn.com
+metrics-dra.dt.hicloud.com
+logbak.hicloud.com
