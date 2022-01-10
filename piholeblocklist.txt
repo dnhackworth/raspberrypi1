@@ -38,3 +38,13 @@ supportmetrics.apple.com
 browser.sentry-cdn.com
 metrics-dra.dt.hicloud.com
 logbak.hicloud.com
+https://ads.google.com
+https://pagead2.googleadservices.com
+https://googleadservices.com
+https://ads.youtube.com
+https://appmetrica.yandex.com
+https://extmaps-api.yandex.net
+https://adsdk.yandex.ru
+https://metrics1.data.hicloud.com
+https://metrics5.data.hicloud.com 
+https://logservice1.hicloud.com
