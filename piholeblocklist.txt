@@ -48,3 +48,10 @@ https://adsdk.yandex.ru
 https://metrics1.data.hicloud.com
 https://metrics5.data.hicloud.com 
 https://logservice1.hicloud.com
+https://ads.youtube.com
+https://appmetrica.yandex.com
+https://adsdk.yandex.ru
+https://click.oneplus.cn
+https://analytics-api.samsunghealthcn.com
+https://securemetrics.apple.com
+https://supportmetrics.apple.com
